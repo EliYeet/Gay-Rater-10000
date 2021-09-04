@@ -1,4 +1,4 @@
-# Gay-Rater-10000
+
 
 
 Functions
